@@ -23,8 +23,9 @@ chmod +x update_mcpb.sh
 ```
 
 ### Compile from source
-If you install `AmberTools` from the source code, then copy files from the 
-`pymsmt` folder into your AmberTools source directory and recompile.
+If you install `AmberTools` from the source code, then replace your AmberTools 
+source with files from `pymsmt` and recompile.
+Note the file `orcaio.py` is new.
 
 
 ## Useage
