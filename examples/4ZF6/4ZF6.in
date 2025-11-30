@@ -1,0 +1,8 @@
+original_pdb 4ZF6_H_renum.pdb
+group_name 4ZF6
+cut_off 2.8
+ion_ids 7440
+software_version orca
+ion_mol2files FE.mol2
+naa_mol2files HEM.mol2 1PE.mol2 EDO.mol2
+frcmod_files HEM.frcmod 1PE.frcmod EDO.frcmod
